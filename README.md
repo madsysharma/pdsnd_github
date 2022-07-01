@@ -7,11 +7,19 @@ July 1st, 2022
 Exploring US Bikeshare Data 
 
 ### Description
-This project is used to give an insight into the data regarding bike-sharing transportation collected for 3 US cities.
+This project was developed to give insight into the data regarding bike-sharing transportation collected for 3 US cities.
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Links include:
+udacity.com
+stackoverflow.com
+pandas.pydata.org
+realpython.com
+delftstack.com
+programiz.com
+geeksforgeeks.org
+docs.python.org
 
