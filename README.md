@@ -7,7 +7,7 @@ July 1st, 2022
 Exploring US Bikeshare Data 
 
 ### Description
-This project was developed to give insight into the data regarding bike-sharing transportation collected for 3 US cities.
+This project was developed to give insight into the data regarding bike-sharing transportation collected for 3 US cities. Information discovered from data include the most popular starting/ending stations for a specific month/day, the counts of each gender group to use this mode of transportation, the most common time of travel in a particular month/day, etc.
 
 ### Files used
 bikeshare.py
