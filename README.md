@@ -22,4 +22,4 @@ delftstack.com
 programiz.com
 geeksforgeeks.org
 docs.python.org
-
+w3schools.com
