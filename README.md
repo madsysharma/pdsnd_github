@@ -4,10 +4,10 @@
 July 1st, 2022
 
 ### Project Title
-Replace the Project Title
+Exploring US Bikeshare Data 
 
 ### Description
-Describe what your project is about and what it does
+This project is used to give an insight into the data regarding bike-sharing transportation collected for 3 US cities.
 
 ### Files used
 Include the files used
