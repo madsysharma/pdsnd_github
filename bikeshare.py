@@ -227,13 +227,13 @@ def user_stats(df):
     else:
         print('\nCalculating User Stats...\n')
         # Display counts of user types
-        user_group_df = df.groupby(['User Type'])['Trip Duration'].count().reset_index(name="Total Count")
+        user_group_df = df.groupby(['User Type'])['Trip Duration'].count().reset_index(name="Total Count of User Group")
         print("The total count for each user type:\n")
         print(user_group_df)
         print("\n")
         # Display counts of gender
         if 'Gender' in df:
-            gender_group_df = df.groupby(['Gender'])['Trip Duration'].count().reset_index(name="Total Count")
+            gender_group_df = df.groupby(['Gender'])['Trip Duration'].count().reset_index(name="Total Count of Gender")
             print("The total count for each gender:\n")
             print(gender_group_df)
             print("\n")
